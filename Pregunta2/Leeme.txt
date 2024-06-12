@@ -1,0 +1,3 @@
+Para esta pregunta se uso visual studio y mysql
+Se uso el driver odbc mysql 8.1.0 de 32 bits
+Se creo en origen de datos una cuenta con examen que maneja el root y la base de datos parcial2 con una tabla de texturas con columnas de descripcion,cR,cG,cB y colorapintar
